@@ -1,0 +1,5 @@
+GET /allblogs gets all blogs
+POST /blog posts a new blog
+GET /allblogs/:id fetches a single blog
+DELETE /blogs/:id deletes a blog 
+PATCH/UPDATE /blogs/:id updates blog
